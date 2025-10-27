@@ -21,7 +21,6 @@ public class Exercicio08arr {
         }
       }
     }
-
     System.out.println(Arrays.toString(numeros3));
 
  
